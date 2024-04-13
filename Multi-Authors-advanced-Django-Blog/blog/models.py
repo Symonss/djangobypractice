@@ -102,9 +102,3 @@ class Contact(models.Model):
         return f"{ self.name } | { self.subject}" 
 
 
-# made by Nazrul Islam Yeasin 
-# Facebook : https://facebook.com/yeazin.io
-# Twitter : https://twitter.com/_yeazin
-# Github : https://github.com/yeazin
-# linked In : https://www.linkedin.com/in/yeazin/
-# website : yeazin.github.io
